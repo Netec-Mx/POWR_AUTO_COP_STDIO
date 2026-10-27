@@ -8,7 +8,7 @@
 
 Te damos la bienvenida a la plataforma de laboratorios del curso Automatización con Power Automate y Copilot Studio para gestión de proyectos. Aquí podrás automatizar el seguimiento de actividades, consolidar información para reportes y utilizar agentes para analizar requerimientos y documentar procesos mediante prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
-Antes de comenzar, consulta la [guía de preparación del entorno](SETUP_GUIDE.md).
+
 
 ## Lista de laboratorios
 
