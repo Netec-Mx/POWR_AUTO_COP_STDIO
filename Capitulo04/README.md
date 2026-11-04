@@ -41,7 +41,7 @@ Al finalizar este laboratorio, serás capaz de:
 
 ### Requisitos de Acceso y Entorno
 
-- Haber completado el [laboratorio 3](../Practica03/README.md) y conservar el agente `ATLAS - Asistente PMO y QA` y la carpeta `ProyectoAtlas/FuentesAgente`.
+- Haber completado el laboratorio 3 y conservar el agente `ATLAS - Asistente PMO y QA` y la carpeta `ProyectoAtlas/FuentesAgente`.
 - Disponer de [Especificacion_Despliegue_Atlas.docx](recursos/Especificacion_Despliegue_Atlas.docx) en **SharePoint**. Idealmente se cargo durante la preparación del laboratorio 3; comprobar que la fuente es consultable antes de iniciar los prompts.
 - Tener cuenta de Microsoft 365 con permisos de escritura en la biblioteca SharePoint, Word para la Web, Outlook y derecho a crear flujos estándar en Power Automate.
 - Disponer de un **revisor de laboratorio real**, con una cuenta autorizada del mismo tenant y permiso para abrir documentos SharePoint y responder solicitudes Approvals. Coordinar su disponibilidad para responder durante la práctica; no usar una dirección inventada.
