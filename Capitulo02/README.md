@@ -40,7 +40,7 @@ Al finalizar este laboratorio, serás capaz de:
 
 ### Requisitos de Acceso y Entorno
 
-- Haber completado el [laboratorio 1](../Practica01/README.md) y conservar la lista `SeguimientoActividades`, sus **6 elementos** y los dos estados `Bloqueada` resultantes de la prueba (no limpiar la lista).
+- Haber completado el laboratorio 1 y conservar la lista `SeguimientoActividades`, sus **6 elementos** y los dos estados `Bloqueada` resultantes de la prueba (no limpiar la lista).
 - Disponer del archivo [Hitos_Proyecto_Atlas.xlsx](recursos/Hitos_Proyecto_Atlas.xlsx) incluido en este paquete. Es un recurso de entrada indispensable; no modificar sus encabezados ni el nombre de tabla `tblHitos`.
 - Acceder con la misma identidad de Microsoft 365 a [Power Automate](https://make.powerautomate.com/), [OneDrive for Business](https://www.microsoft365.com/launch/onedrive), Excel para la Web, SharePoint y Outlook.
 - Poder crear archivos dentro de una biblioteca documental SharePoint y enviar mensajes a un buzón de prueba del tenant; tener conexiones estándar habilitadas por la política DLP.
@@ -377,4 +377,4 @@ En este laboratorio has aprendido a:
 3. **Producir un reporte reutilizable:** Integrar dos tablas HTML, guardarlas en SharePoint y distribuirlas por Outlook.
 4. **Comprobar cambios de origen:** Confirmar que la salida depende de Excel y no de contenido fijo.
 
-**Producto verificable:** flujo `ATLAS_02_Reporte_Seguimiento`, dos correos de prueba y al menos un archivo `Reporte_ATLAS_*.html` con datos de ambas fuentes. Continuar con el [laboratorio 3](../Practica03/README.md).
+
