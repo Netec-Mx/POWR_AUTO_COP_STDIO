@@ -42,7 +42,7 @@ Al finalizar este laboratorio, serás capaz de:
 
 - Disponer de una **Trial activa de Microsoft Copilot Studio** con permiso para crear un agente en el entorno autorizado y probarlo en **Test your agent**. Verificar que la política DLP permite la fuente SharePoint.
 - Acceder al mismo sitio de práctica SharePoint utilizado anteriormente, con permiso para cargar archivos y leer la carpeta `ProyectoAtlas/FuentesAgente`.
-- Descargar [Requerimientos_Proyecto_Atlas.docx](recursos/Requerimientos_Proyecto_Atlas.docx) y [Especificacion_Despliegue_Atlas.docx](../Practica04/recursos/Especificacion_Despliegue_Atlas.docx). Ambos documentos son fuentes del caso Atlas y pueden almacenarse en la misma carpeta SharePoint para que **el segundo ya esté disponible al llegar al laboratorio 4**. No se analizara la especificación técnica hasta entonces.
+- Descargar [Requerimientos_Proyecto_Atlas.docx](recursos/Requerimientos_Proyecto_Atlas.docx) y [Especificacion_Despliegue_Atlas.docx](Capitulo04/recursos/Especificacion_Despliegue_Atlas.docx). Ambos documentos son fuentes del caso Atlas y pueden almacenarse en la misma carpeta SharePoint para que **el segundo ya esté disponible al llegar al laboratorio 4**. No se analizara la especificación técnica hasta entonces.
 - Confirmar previamente que el tenant permite consultar documentos de SharePoint desde Copilot Studio. La indexación/búsqueda puede demorar; la disponibilidad no puede garantizarse en un tiempo fijo. Si los archivos son nuevos, cargarlos en SharePoint **antes de la sesión práctica** cuando sea posible.
 - Confirmar que los documentos no están cifrados ni protegidos con contraseña, que se puede abrir Word para la Web y que no se requieren permisos de publicación del agente. Los dos DOCX incluidos son inferiores a **7 MB**, límite de procesamiento de archivos de SharePoint para respuestas generativas en un tenant sin licencia Microsoft 365 Copilot; en ese caso, desactivar **Tenant graph grounding with semantic search** (fundamentación de Tenant Graph con búsqueda semántica) en la configuración de IA generativa del agente. La licencia Trial de Copilot Studio no equivale a una licencia Microsoft 365 Copilot. La recuperación de conocimiento está además condicionada por la autenticación Microsoft, la configuración del agente, el índice de SharePoint y las políticas del entorno.
 
@@ -66,7 +66,7 @@ Al finalizar este laboratorio, serás capaz de:
 | :--- | :--- |
 | Proyecto | `PRJ-ATLAS`. |
 | Carpeta SharePoint de origen | `ProyectoAtlas/FuentesAgente`. |
-| Documentos de origen | [Requerimientos](recursos/Requerimientos_Proyecto_Atlas.docx) y [especificación de despliegue](../Practica04/recursos/Especificacion_Despliegue_Atlas.docx). |
+| Documentos de origen | [Requerimientos](recursos/Requerimientos_Proyecto_Atlas.docx) y [especificación de despliegue](Capitulo04/recursos/Especificacion_Despliegue_Atlas.docx). |
 | Nombre del agente | `ATLAS - Asistente PMO y QA`. |
 | Fuente registrada | `Fuentes_Atlas` (SharePoint). |
 | Requisitos funcionales | `RF-01`, `RF-02`, `RF-03`. |
@@ -307,4 +307,4 @@ En este laboratorio has aprendido a:
 3. **Evaluar respuestas generativas:** Detectar inventos y solicitudes adversas sin asumir que las instrucciones garantizan exactitud.
 4. **Preparar una revisión humana:** Consolidar resultados en Word diferenciando propuestas de pruebas realizadas.
 
-**Producto verificable:** agente operativo en el panel de pruebas y `Analisis_Requerimientos_QA_Atlas.docx` con cuatro apartados. Continuar con el [laboratorio 4](../Practica04/README.md); el agente no necesita publicarse.
+
