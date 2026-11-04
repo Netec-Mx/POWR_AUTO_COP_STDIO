@@ -237,4 +237,4 @@ En este laboratorio has aprendido a:
 2. **Automatizar avisos condicionados:** Conectar un disparador de cambios con una evaluación de estado y un correo de Outlook.
 3. **Verificar resultados:** Interpretar ramas e historial sin sustituir pruebas por suposiciones.
 
-**Producto verificable:** lista `SeguimientoActividades` y flujo `ATLAS_01_Aviso_Bloqueo` operativo, con una notificación positiva y una ejecución negativa comprobadas. Continuar con el [laboratorio 2](../Practica02/README.md).
+
